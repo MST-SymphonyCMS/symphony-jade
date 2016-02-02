@@ -1,4 +1,4 @@
-# CommonMark
+# Jade Editor for Symphony CMS
 
 [Jade][1] text formatter for [Symphony][2].
 
