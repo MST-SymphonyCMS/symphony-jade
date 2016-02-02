@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension id="jade" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+    <name>Jade</name>
+    <description>Jade text formatter.</description>
+    <repo type="github">https://github.com/vdcrea/symphony-jade.git</repo>
+    <types>
+        <type>Text Formatter</type>
+    </types>
+    <authors>
+        <author>
+            <name github="vdcrea" symphony="vincentd">Vincent Dupont</name>
+        </author>
+    </authors>
+    <releases>
+        <release version="0.0.1" date="2016-02-02" min="2.5.x" max="2.x.x"/>
+    </releases>
+</extension>
