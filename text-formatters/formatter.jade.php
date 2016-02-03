@@ -11,7 +11,7 @@ class FormatterJade extends TextFormatter
     {
         $this->compiler = new Compiler([
             'pretty' => true,
-            'mode' => MODE_XHTML,
+            'mode' => MODE_XML,
             'paths' => null
         ]);
     }
